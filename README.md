@@ -10,7 +10,7 @@
 $ python hello.py
 '''
 
-
+$y=x+1$
 
 ## Contributing
 
